@@ -1,83 +1,94 @@
-# 🚀 Welcome to My GitHub Profile!
-
-
-<h1 align="center">Hi, I'm Nakul Lagad 👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer 💻 | Tech Enthusiast 🚀 | Problem Solver 🧠</h3>
-
----
-
-## 🌟 About Me
-
-I'm a **full-stack web developer** with a love for building **scalable**, **user-friendly**, and **innovative** web applications. I enjoy turning ideas into reality through code and constantly strive to learn and grow in the ever-evolving world of technology.
-
-- 🔭 I’m currently working on a **Job Portal Website**.
-- 🌱 I’m learning **Advanced React, AWS, and System Design**.
-- 👯 I’m looking to collaborate on **open-source projects** and **innovative web apps**.
-- 💬 Ask me about **Web Development**, **React**, **Node.js**, or **anything tech-related**.
-- ⚡ Fun Fact: I love **playing cricket** 🏏.
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend Development**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-Here are some of the projects I'm proud of:
-
-1. **[Meena Plastic Website Redesign]** - Modern,responsive corporate website,Firebase integration,Performance-optimized design
-   [![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://mamo-technolabs-website-redesign.vercel.app/)
-
-2. **[Mamo Technolabs Website Redesign]** - Corporate website redesign,
-Enhanced user interface,Responsive across devices
-   [![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://meena-plastic-website-redesign.vercel.app/)
-
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakullagad&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakullagad&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nakul+Lagad!;" />
+</h1>
 
-## 📫 Let's Connect!
+<h3 align="center">A Passionate Full-Stack Developer 🚀 Building Digital Experiences</h3>
 
-I'm always open to **collaborating on exciting projects** or discussing tech. Feel free to reach out to me:
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lagadnakul)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-lagad-625017269/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakullagad084@gmail.com)
+<div align="center">
+ 
+ 🔭 I'm currently working on **Job Portal Website**
+ 
+ 🌱 I'm currently mastering **Advanced React, AWS, and System Design**
 
----
+ 💬 Ask me about **React, Node.js, Web Development... or anything [here](https://github.com/nakullagad/nakullagad/issues)**
 
-## 🌟 Fun Fact
+ ⚡ Fun fact **I love playing cricket 🏏**
+ 
+ </div>
 
-When I'm not coding, I enjoy **playing cricket** 🏏 and exploring new technologies.
+<div align="center"> 
+  <a href="mailto:nakullagad084@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/nakul-lagad-625017269" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lagadnakul" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,cpp,mysql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,firebase" />
+</div>
 
-⭐️ **Thanks for visiting my profile! Let's build something amazing together!** ⭐️
+<br/>
+<hr/>
+
+<h2 align="center">🌟 Featured Projects</h2>
+<br/>
+
+<div align="center">
+  <a href="https://mamo-technolabs-website-redesign.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Mamo_Technolabs-Website_Redesign-2ea44f?style=for-the-badge&logo=vercel" alt="Mamo Technolabs" />
+  </a>
+  <p>Modern corporate website with enhanced UI and responsive design</p>
+  
+  <a href="https://meena-plastic-website-redesign.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Meena_Plastic-Website_Redesign-2ea44f?style=for-the-badge&logo=vercel" alt="Meena Plastic" />
+  </a>
+  <p>Performance-optimized design with Firebase integration</p>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nakullagad&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nakullagad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nakullagad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nakullagad&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+ready+to+collaborate+:)">
+</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
