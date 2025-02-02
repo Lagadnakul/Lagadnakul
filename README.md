@@ -16,8 +16,8 @@
  
  🌱 I'm currently mastering **Advanced React, AWS, and System Design**
 
- 💬 Ask me about **React, Node.js, Web Development... or anything [here](https://github.com/nakullagad/nakullagad/issues)**
-
+ 💬 Ask me about **React, Node.js, Web Development... or anything 
+ 
  ⚡ Fun fact **I love playing cricket 🏏**
  
  </div>
