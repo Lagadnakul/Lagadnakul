@@ -83,6 +83,8 @@
 <details open>
   <summary><b>DevOps & Tools</b></summary>
   <div align="center">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,vscode" />
+    <br/>
   </div>
 </details>
 
