@@ -1,3 +1,4 @@
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nakul%20Lagad&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nakul%20Lagad&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=333333&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50">
@@ -224,4 +225,4 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
-
+</div>
