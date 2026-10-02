@@ -1,230 +1,144 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nakul%20Lagad&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nakul%20Lagad&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=333333&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nakul%20Lagad&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=333333&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50" alt="Nakul Lagad">
-</picture>
 
-<!-- Animated typing effect -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=3584E4&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+next-gen+web+experiences;MERN+Stack+%2B+AI+Integration;Clean+Code+Craftsman;Turning+ideas+into+reality" alt="Typing SVG" /></a>
-  
-  <!-- Modern Badges -->
-  <div>
-    <a href="mailto:nakullagad084@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://linkedin.com/in/nakul-lagad-625017269" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/Lagadnakul" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://twitter.com" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=nakullagad&style=for-the-badge&color=6366f1" alt="Profile views"/>
-  </div>
-  
-  <br/>
-  
-  <!-- About Me Card -->
-  <table>
-    <tr>
-      <th>👨‍💻 About Me</th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          I'm a full-stack developer passionate about creating intelligent, user-friendly applications.<br/>
-          Currently focused on AI integration in web applications and building innovative solutions.<br/><br/>
-          <b>⚡ Currently:</b> Developing an AI assistant with NLP capabilities<br/>
-          <b>🔭 Learning:</b> Advanced React, AWS Architecture, System Design<br/>
-          <b>🌱 Interests:</b> AI/ML, Web3, Cloud Architecture<br/>
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Animated GitHub Stats -->
-  <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nakullagad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=3584E4&text_color=8B949E" alt="GitHub Stats"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nakullagad&theme=tokyonight&hide_border=true&background=0D1117&stroke=3584E4&ring=3584E4&fire=3584E4&currStreakNum=FFFFFF&currStreakLabel=3584E4&sideLabels=3584E4&dates=8B949E" alt="GitHub Streak"/>
-  </div>
-  
-  <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Nakul+Lagad&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Nakul Lagad" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=600&color=10B981&center=true&vCenter=true&width=620&height=55&lines=I+build+web+systems;and+study+how+they+fail;MERN+%C2%B7+TypeScript+%C2%B7+Node;Agentic+AI+failure+recovery" alt="Typing SVG"/>
+</a>
+
+<p>
+  <a href="mailto:nakullagad084@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/nakul-lagad-625017269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://recovery-bench.vercel.app"><img src="https://img.shields.io/badge/Research-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Lagadnakul&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
 </div>
 
-<h2 align="center">💻 Tech Stack & Skills</h2>
+---
 
-<details open>
-  <summary><b>Frontend Technologies</b></summary>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux,nextjs" />
-    <br/>
-  </div>
-</details>
+## About
 
-<details open>
-  <summary><b>Backend & Database</b></summary>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma" />
-    <br/>
-  </div>
-</details>
+I am a full stack developer from Vadodara, currently doing an **M.Tech in Artificial Intelligence
+and Data Science** at Parul University. Before that I spent four months at **Mamo Technolabs**
+writing production React and Node.
 
-<details open>
-  <summary><b>AI & ML</b></summary>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow" />
-    <br/>
-  </div>
-</details>
+Most of what I build is MERN: real time comment trees, booking platforms, campus APIs. My
+dissertation asks a narrower question, which is what an AI coding agent does *after* it gets
+something wrong.
 
-<details open>
-  <summary><b>DevOps & Tools</b></summary>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,vscode" />
-    <br/>
-  </div>
-</details>
-
-<h2 align="center">🚀 Featured Projects</h2>
+```text
+Currently   M.Tech dissertation on failure recovery in agentic coding systems
+Building    Recovery Bench, a benchmark for self-repair in AI coding agents
+Learning    Distributed systems, LLM evaluation, benchmark design
+Based in    Vadodara, Gujarat, India
+```
 
 <div align="center">
-  <a href="https://github.com/Lagadnakul/Jarvis-AI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Jarvis-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=F8D866&text_color=8B949E" alt="Jarvis AI"/>
-  </a>
-  <a href="https://github.com/Lagadnakul/Car-Drivers" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Car-Drivers&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=F8D866&text_color=8B949E" alt="Car Drivers"/>
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lagadnakul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=8B949E" alt="GitHub Stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Lagadnakul&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=FFFFFF&currStreakLabel=10B981&sideLabels=10B981&dates=8B949E" alt="GitHub Streak"/>
 </div>
+
+---
+
+## Research
+
+**A Self-Reflection-Based Failure Recovery Framework for Agentic AI Coding Systems**
+M.Tech Dissertation · Parul University · 2026
+
+Agentic coding systems are measured on whether they solve a task, not on what they do when they
+get it wrong. I built a benchmark that seeds controlled failures into coding tasks, then measures
+whether an agent can detect, diagnose and repair its own bad patch. The framework separates
+recovery from retry: re-running a prompt is not the same as reasoning about why the first attempt
+failed.
+
+| | Result |
+|---|---|
+| Self-reflection prompting | **3 / 3** recovered across the seeded failure set |
+| Baseline retry | **0 / 4** no recovery without an explicit reflection step |
+| Test suite | **433** tests across a Bun and TypeScript workspace |
 
 <div align="center">
-  <a href="https://github.com/Lagadnakul/Blogger" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Blogger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=F8D866&text_color=8B949E" alt="Blogger"/>
-  </a>
-  <a href="https://github.com/Lagadnakul/Hunger-Hive" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Hunger-Hive&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=F8D866&text_color=8B949E" alt="Hunger Hive"/>
-  </a>
+  <a href="https://dissertation-explainer.vercel.app"><img src="https://img.shields.io/badge/Interactive_Explainer-10B981?style=for-the-badge&logoColor=white" alt="Explainer"/></a>
+  <a href="https://recovery-bench.vercel.app"><img src="https://img.shields.io/badge/Results_Dashboard-0F766E?style=for-the-badge&logoColor=white" alt="Dashboard"/></a>
+  <a href="https://github.com/Lagadnakul/Dissertation"><img src="https://img.shields.io/badge/Source_%26_Thesis-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
 </div>
 
-<h2 align="center">✨ Project Showcase</h2>
+---
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Jarvis AI Assistant</h3>
-      <div align="center">
-        <a href="https://github.com/Lagadnakul/Jarvis-AI" target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/Lagadnakul/Jarvis-AI" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-        </p>
-        <p>
-          <strong>Node.js, Express, OpenAI, MongoDB</strong> - A next-generation voice assistant that combines OpenAI's language models with advanced speech technologies.
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚗 Car Drivers Platform</h3>
-      <div align="center">
-        <a href="https://github.com/Lagadnakul/Car-Drivers" target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/Lagadnakul/Car-Drivers" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-        </p>
-        <p>
-          <strong>React, Node.js, Express, MongoDB</strong> - A comprehensive platform for managing car drivers, bookings, and user accounts.
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">📝 Growth Grid Blog Platform</h3>
-      <div align="center">
-        <a href="https://github.com/Lagadnakul/Blogger" target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/Lagadnakul/Blogger" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-          <a href="https://blogger-delta-ten.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
-          </a>
-        </p>
-        <p>
-          <strong>Next.js, React, MongoDB</strong> - A sleek, modern blogging platform with a clean responsive design and powerful admin interface.
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🍔 Hunger Hive</h3>
-      <div align="center">
-        <a href="https://github.com/Lagadnakul/Hunger-Hive" target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/Lagadnakul/Hunger-Hive" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-          <a href="https://hunger-hive-demo.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
-          </a>
-        </p>
-        <p>
-          <strong>React, Vite, Express.js, MongoDB</strong> - A modern food delivery application with admin panel, customer frontend, and Express.js backend.
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">📊 GitHub Analytics</h2>
+## Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakullagad&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=3584E4&text_color=8B949E&hide=html,css&langs_count=6" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/Lagadnakul" target="_blank">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nakullagad&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=3584E4&point=6366F1&color=8B949E" alt="GitHub Activity Graph"/>
-  </a>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite" alt="Frontend"/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,py" alt="Backend"/>
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,bun,vercel,postman" alt="Tooling"/>
+
 </div>
 
-<h2 align="center">🤝 Let's Connect</h2>
+---
+
+## Selected Work
 
 <div align="center">
-  <p>I'm always interested in collaborating on innovative projects and exploring new opportunities!</p>
-  
-  <table>
-    <tr>
-      <td>
-        <ul>
-          <li>💼 Open to freelance projects and collaborations</li>
-          <li>💻 Looking for interesting open-source contributions</li>
-          <li>🌱 Happy to mentor and help fellow developers</li>
-          <li>☕ Let's chat over virtual coffee!</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  
-  <h4>⚡ Fun Facts:</h4>
-  <p>
-    • Love playing cricket 🏏 and exploring outdoor activities<br>
-    • Coffee enthusiast ☕ who codes better with a cup in hand<br>
-    • Always excited to try out new development tools and frameworks
-  </p>
+
+<a href="https://github.com/Lagadnakul/Dissertation">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Dissertation&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=8B949E" alt="Dissertation"/>
+</a>
+<a href="https://github.com/Lagadnakul/nested-comments">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=nested-comments&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=8B949E" alt="nested-comments"/>
+</a>
+
+<a href="https://github.com/Lagadnakul/Food-Delivery">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Food-Delivery&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=8B949E" alt="Food Delivery"/>
+</a>
+<a href="https://github.com/Lagadnakul/Car-Drivers">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Car-Drivers&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=8B949E" alt="Car Drivers"/>
+</a>
+
+<a href="https://github.com/Lagadnakul/evm-reality-check">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=evm-reality-check&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=8B949E" alt="EVM Reality Check"/>
+</a>
+<a href="https://github.com/Lagadnakul/CampusIQ-360">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=CampusIQ-360&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=8B949E" alt="CampusIQ 360"/>
+</a>
+
 </div>
-<br/>  
-  <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+| Project | What is interesting about it | Live |
+|---|---|---|
+| **Recovery Bench** | Benchmark harness behind the dissertation. 433 tests, Bun workspace. | [dashboard](https://recovery-bench.vercel.app) |
+| **nested-comments** | Live comment trees where a child can arrive before its parent, so orphans are buffered and spliced in later. | [demo](https://nested-comments-izrs.vercel.app) |
+| **Hunger Hive** | Storefront, admin dashboard and Express/MongoDB API over one data model. | [demo](https://hunger-hive.vercel.app) |
+| **Find My Driver** | Three roles over a single Express API with role based access control. | [demo](https://car-drivers.vercel.app) |
+| **EVM Reality Check** | Each common misconception paired with a simulation you can step through. | [demo](https://evm-reality-check.vercel.app) |
+| **CampusIQ 360** | Campus management REST API. Attendance, assignments, timetables, events. | API only |
+
+---
+
+## Analytics
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagadnakul&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=8B949E&hide=html,css&langs_count=6" alt="Top Languages"/>
 </div>
+
+---
+
+## Get in touch
+
+Open to **internships**, **research collaboration** and **freelance work**.
+Email is fastest: **[nakullagad084@gmail.com](mailto:nakullagad084@gmail.com)**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0F766E&height=100&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 </div>
