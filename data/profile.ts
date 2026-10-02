@@ -15,6 +15,9 @@ export const profile = {
 
   avatarUrl: "https://avatars.githubusercontent.com/u/155940113?v=4",
 
+  /** Served from public/. Update the link in the PDF itself after deploying. */
+  resumeUrl: "/Nakul_Lagad_Resume.pdf",
+
   links: {
     github: "https://github.com/Lagadnakul",
     linkedin: "https://www.linkedin.com/in/nakul-lagad-625017269",

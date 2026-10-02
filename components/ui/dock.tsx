@@ -18,6 +18,7 @@ import {
   EnvelopeSimple,
   GithubLogo,
   LinkedinLogo,
+  ReadCvLogo,
   DotsThree,
 } from "@phosphor-icons/react";
 import { cn } from "@/lib/utils";
@@ -52,6 +53,12 @@ const socialGroup: Item[] = [
     title: "LinkedIn",
     icon: <LinkedinLogo className="size-full" />,
     href: profile.links.linkedin,
+    external: true,
+  },
+  {
+    title: "Resume",
+    icon: <ReadCvLogo className="size-full" />,
+    href: profile.resumeUrl,
     external: true,
   },
 ];

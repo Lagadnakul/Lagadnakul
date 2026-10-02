@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowDown, ArrowUpRight } from "@phosphor-icons/react/dist/ssr";
+import { ArrowDown, ArrowUpRight, DownloadSimple } from "@phosphor-icons/react/dist/ssr";
 import { FlickeringGrid } from "@/components/ui/flickering-grid";
 import { TypingAnimation } from "@/components/ui/typing-animation";
 import { BlurFade } from "@/components/ui/blur-fade";
@@ -74,6 +74,15 @@ export function Hero() {
               Read the research
               <ArrowUpRight size={14} />
             </Link>
+            <a
+              href={profile.resumeUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-1.5 rounded-full border border-border bg-surface px-6 py-3 text-sm font-medium text-ink transition-colors duration-200 hover:border-accent/40 hover:text-accent-deep active:scale-[0.98]"
+            >
+              Resume
+              <DownloadSimple size={14} />
+            </a>
           </div>
         </BlurFade>
       </div>
