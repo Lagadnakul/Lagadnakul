@@ -37,7 +37,7 @@ Based in    Vadodara, Gujarat, India
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lagadnakul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=8B949E" alt="GitHub Stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Lagadnakul&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=FFFFFF&currStreakLabel=10B981&sideLabels=10B981&dates=8B949E" alt="GitHub Streak"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=Lagadnakul&theme=dark&hide_border=true&background=80%2C0D1117%2C064E3B&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=10B981&sideLabels=10B981&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 ---
