@@ -23,7 +23,7 @@ export const profile = {
     linkedin: "https://www.linkedin.com/in/nakul-lagad-625017269",
   },
 
-  siteUrl: "https://nakul-lagad.vercel.app",
+  siteUrl: "https://lagadnakul.vercel.app",
 } as const;
 
 export const education = [

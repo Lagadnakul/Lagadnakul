@@ -7,6 +7,7 @@
 </a>
 
 <p>
+  <a href="https://lagadnakul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:nakullagad084@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/nakul-lagad-625017269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://recovery-bench.vercel.app"><img src="https://img.shields.io/badge/Research-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research"/></a>
