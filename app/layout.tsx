@@ -124,6 +124,7 @@ export default function RootLayout({
       className={`${bricolage.variable} ${inter.variable} ${geistMono.variable} h-full`}
     >
       <head>
+        <meta name="google-site-verification" content="oQaFQkVkCz15LmaPngWNmP9LN-fQOP8Ni8qznwWWwjk" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
